@@ -3,7 +3,7 @@
 header.masthead {
   text-align: center;
   color: white;
-  background-image: url(./conference.jpg);
+  background-image: url(../assets/conference.jpg);
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
